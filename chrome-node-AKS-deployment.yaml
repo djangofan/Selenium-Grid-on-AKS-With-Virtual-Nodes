@@ -30,7 +30,7 @@ spec:
               name: dshm
           env:
             - name: HUB_HOST
-              value: "10.0.27.181" 
+              value: "10.0.194.232" 
             - name: HUB_PORT
               value: "4444" 
           resources:
